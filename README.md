@@ -42,10 +42,4 @@ This project focuses on optimizing product pricing using machine learning techni
 3. **Model Training:** Train the Random Forest model with the provided scripts.
 4. **Interpretation:** Use SHAP and permutation importance to interpret the model's predictions.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Special thanks to the contributors and resources that supported the development of this project.
